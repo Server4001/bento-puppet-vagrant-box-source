@@ -2,6 +2,9 @@
 
 ## bento/centos-6.7 Vagrant box with Puppet installed
 
+**NOTE:** This is the environment used to build the Vagrant box. If you are looking for a CentOS environment with Puppet installed, just use the box: [server4001/bento-puppet](https://atlas.hashicorp.com/server4001/boxes/bento-puppet).
+
+
 ### Instructions
 
 * `vagrant up`
